@@ -1,6 +1,6 @@
 module github.com/aruncs31s/godb
 
-go 1.26.3
+go 1.25.0
 
 require gorm.io/gorm v1.31.2
 
