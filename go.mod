@@ -2,7 +2,7 @@ module github.com/aruncs31s/godb
 
 go 1.25.0
 
-require gorm.io/gorm v1.31.2
+require gorm.io/gorm v1.31.1
 
 require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
